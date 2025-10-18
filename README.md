@@ -7,7 +7,6 @@
 <table>
 <tr>
 
-<td valign="top" width="100%">
 
 ### 📊 GitHub Stats
 
@@ -17,7 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADIT400&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-</td>
 </tr>
 </table>
 
