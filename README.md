@@ -7,7 +7,7 @@
 <table>
 <tr>
 
-<td valign="top" width="40%">
+<td valign="top" width="100%">
 
 ### 📊 GitHub Stats
 
